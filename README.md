@@ -2,8 +2,6 @@
 
 Plataformas de Perguntas feitas com base na orientação do curso de Node.js que estou fazendo.
 
----
-
 ### Foram usados:
 
 - Node.js
